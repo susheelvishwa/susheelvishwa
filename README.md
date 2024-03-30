@@ -11,6 +11,7 @@
   <h2 align="center">💫  About Me </h2>
 </h4>
 
+
 <div style="display: flex; justify-content: center; align-items: center;">
   <a href="https://git.io/typing-svg" target="_blank">
     <b><img src="https://readme-typing-svg.demolab.com/?lines=+Student+and+Aspiring+Full+Stack+Developer;" alt="Typing SVG"><b>
@@ -53,6 +54,8 @@
 <a href="mailto:susheelvishwakarma.india@gmail.com"><img  alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 <a href="https://www.instagram.com/susheelvishwakarma65"><img alt="Instagram" src="https://img.shields.io/badge/instagram%20-%23FF69B4.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+<a href="https://auth.geeksforgeeks.org/user/susheelvishwakarma65"><img alt="GeeksforGeeks" src="https://img.shields.io/badge/GeeksforGeeks%20-%23207B5.svg?&style=for-the-badge&logo=GeeksforGeeks&logoColor=white" />
 </a>
 </div>
 

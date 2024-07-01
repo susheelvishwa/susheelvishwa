@@ -3,7 +3,6 @@
 
 
 <h4 align="center">I am pursuing my B.Tech in Electronics and Communication at the Sagar Institute of Research and Technology, Bhopal.
-  <br>As I continue to progress, I am excited to professionally apply my abilities and expertise as a Full Stack Developer.
   <br>My expertise has given me a good understanding of both front-end and back-end technologies
   <br>Allowing me to design unique, user-friendly software solutions. 
   <br>I am diligent and strive for perfection in whatever I do.

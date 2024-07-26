@@ -125,8 +125,3 @@
   <img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' />
 
 
-# My GitHub Page with Water Animation
-
-Here is an example of water animation:
-
-<iframe src="https://susheelvishwa.github.io/water-animation/index.html" width="100%" height="200" frameborder="0"></iframe>

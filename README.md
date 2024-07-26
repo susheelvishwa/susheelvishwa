@@ -108,16 +108,26 @@
 <h2 align="center">📊 My GitHub Statastics </h2>
 
  <div align ="center">
-  <tr>
-<td><img src="https://github-readme-stats.vercel.app/api?username=susheelvishwa&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="susheelvishwa" />
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=susheelvishwa&show_icons=true&locale=en&layout=compact&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Ananyakumarisingh" /></td>
-  </tr>
-  </div>
- 
-<div align="center">
+<tr>
+<td>
+<img src="https://github-readme-stats.vercel.app/api?username=susheelvishwa&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="susheelvishwa" />
+<td>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=susheelvishwa&show_icons=true&locale=en&layout=compact&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="susheelvishwa" />
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=susheelvishwa&theme=dark" alt="susheelvishwa" /></p>
   </div>
+</td>
+</tr>
+</div>
+ 
+<div align="center">
+
 </div>
   <img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' />
 
 
+# My GitHub Page with Water Animation
+
+Here is an example of water animation:
+
+<iframe src="https://susheelvishwa.github.io/water-animation/index.html" width="100%" height="200" frameborder="0"></iframe>

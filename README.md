@@ -3,7 +3,6 @@
 
 
 <h4 align="center">I am pursuing my B.Tech in Electronics and Communication at the Sagar Institute of Research and Technology, Bhopal.
-  <br>As I continue to progress, I am excited to professionally apply my abilities and expertise as a Full Stack Developer.
   <br>My expertise has given me a good understanding of both front-end and back-end technologies
   <br>Allowing me to design unique, user-friendly software solutions. 
   <br>I am diligent and strive for perfection in whatever I do.
@@ -25,7 +24,7 @@
   <img align="right" alt="Coder Image Gif" width="400" src="https://user-images.githubusercontent.com/119415006/232788353-c644eb55-f41d-4e30-ad97-4a0b88bfbbff.png">
   
 
-🌱 I’m currently learning **React.js and Redux**.
+🌱 I’m currently learning **Backend (nodejs)**.
 <br><br>
 🤔 Check Out my <a href="https://docs.google.com/document/d/1cB5rDEBopUy9eYz_aalDiit3fIoIxgWe-c6m_N1sac4/edit?usp=sharing" style="color: rgb(211, 28, 255);">Resume</a>
 <br><br>

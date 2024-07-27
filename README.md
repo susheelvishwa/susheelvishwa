@@ -63,11 +63,12 @@
  
 <h2 align="center">🚀 Languages and Tools: </h2>
  
-<h4><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;Tech Stack..</h4>
+<!-- <h4><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;Tech Stack..</h4> -->
 <br>
 <div>
- <img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=ecf05e47pkbgoupmgjv98otfuzjzz3olilr56muin6aigv8q&rid=giphy.gif&ct=g">
-  <div><h2 align="left">⚡Tech Stack</h2>
+ <!-- <img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=ecf05e47pkbgoupmgjv98otfuzjzz3olilr56muin6aigv8q&rid=giphy.gif&ct=g"> -->
+<h2 align="left">⚡Tech Stack</h2>
+  <div>
 <table align="center">
   <tbody>
     <tr valign="top">

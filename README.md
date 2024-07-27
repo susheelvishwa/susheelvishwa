@@ -65,20 +65,111 @@
  
 <h4><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;Tech Stack..</h4>
 <br>
+<div>
  <img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=ecf05e47pkbgoupmgjv98otfuzjzz3olilr56muin6aigv8q&rid=giphy.gif&ct=g">
-<p>
-<img src="https://img.shields.io/badge/python%20-%23e38f26.svg?&style=for-the-badge&logo=python&logoColor=white" />
- <img src="https://img.shields.io/badge/html5%20-%23e34f26.svg?&style=for-the-badge&logo=html5&logoColor=white" />&nbsp;&nbsp;
- <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/javascript%20-%23F7DF1.svg?&style=for-the-badge&logo=javascript&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/react%20-%231572B6.svg?&style=for-the-badge&logo=react&logoColor=white" />&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white" />&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/chakraui-%23012000.svg?style=for-the-badge&logo=chakraui&logoColor=white" />&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Redux-%23015200.svg?style=for-the-badge&logo=Redux&logoColor=white" />&nbsp;&nbsp;
-<br/>
+  <div><h2 align="left">⚡Tech Stack</h2>
+<table align="center">
+  <tbody>
+    <tr valign="top">
+      <td width="25%" align="center">
+        <a style="font-weight: bold; text-decoration: none;" href="https://www.w3.org/html/">
+          <span>HTML5</span><br /><br />
+          <img
+            height="64px"
+             src="https://cdn.svgporn.com/logos/html-5.svg" alt="HTML5 Logo"
+          />
+        </a>
+      </td>
+        <td width="25%" align="center">
+        <a href="http://www.w3.org/TR/CSS/">
+          <span>CSS</span><br /><br />
+          <img height="64px" src="https://cdn.svgporn.com/logos/css-3.svg" />
+        </a>
+      </td>
+       <td width="25%" align="center">
+        <a href="http://expressjs.com/">
+          <span>Express</span><br /><br />
+          <img
+            height="64px"
+            src="https://cdn.svgporn.com/logos/express.svg"
+          />
+        </a>
+      </td>
+      <td width="25%" align="center">
+        <a href="https://chakra-ui.com/">
+          <span>Chakra UI</span><br /><br />
+          <img height="64px" src="https://itelofilho.gallerycdn.vsassets.io/extensions/itelofilho/chakra-ui-cheatsheet/0.1.2/1602346378840/Microsoft.VisualStudio.Services.Icons.Default" alt="Chakra UI Logo" />
+        </a>
+      </td>
+    </tr>
+    <tr valign="top">
+      <td width="25%" align="center">
+        <a style="font-weight: bold; text-decoration: none;" href="https://git-scm.com/">
+          <span>Git</span><br /><br />
+          <img
+            height="64px"
+            src="https://cdn.svgporn.com/logos/git-icon.svg"
+          />
+        </a>
+    </td>
+      <td width="25%" align="center">
+        <a style="font-weight: bold; text-decoration: none;" href="https://www.vercel.com/">
+          <span>Vercel</span><br /><br />
+          <img height="64px" src="https://cdn.svgporn.com/logos/vercel.svg" />
+        </a>
+      </td>
+      <td width="25%" align="center">
+        <a style="color: black; font-weight: bold; text-decoration: none;" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+          <span>JavaScript</span><br /><br />
+          <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg" />
+        </a>
+      </td>
+      <td width="25%" align="center">
+        <a style="font-weight: bold; text-decoration: none;" href="https://react.dev/">
+          <span>React</span><br /><br />
+          <img height="64px" src="https://cdn.svgporn.com/logos/react.svg" />
+        </a>
+      </td>
+    </tr>
+    <tr valign="top">
+        <td width="25%" align="center">
+        <a style="font-weight: bold; text-decoration: none;" href="https://www.getpostman.com/">
+          <span>Postman</span><br /><br />
+          <img
+            height="64px"
+            src="https://cdn.svgporn.com/logos/postman-icon.svg"
+          />
+        </a>
+    </td>
+    <td width="25%" align="center">
+      <a style="font-weight: bold; text-decoration: none;" href="https://www.mongodb.org/">
+        <span>MongoDB</span><br /><br />
+        <img
+          height="64px"
+          src="https://cdn.svgporn.com/logos/mongodb.svg"
+        />
+      </a>
+    </td>
+      <td width="25%" align="center">
+        <a style="font-weight: bold; text-decoration: none;" href="https://www.netlify.com/">
+          <span>Netlify</span><br /><br />
+          <img height="64px" src="https://cdn.svgporn.com/logos/netlify.svg" />
+        </a>
+      </td>
+      <td width="25%" align="center">
+        <a style="font-weight: bold; text-decoration: none;" href="https://nodejs.org/">
+          <span>Node.js</span><br /><br />
+          <img height="64px" src="https://cdn.svgporn.com/logos/nodejs.svg" />
+        </a>
+      </td>
+    </tr>
 
+  </tbody>
+</table>
 <br/>
-</p>
+</div>
+<br/>
+</div>
 <hr>
  
 <h4><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;My working tools..</h4>

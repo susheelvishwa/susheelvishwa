@@ -7,6 +7,7 @@
   <br>I am diligent and strive for perfection in whatever I do.
   <br>
   <h2 align="center">💫  About Me </h2>
+  <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
 </h4>
 
 
@@ -220,6 +221,7 @@
 </div>
 <br/>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=susheelvishwa&label=Profile%20views&color=0e75b6&style=flat" alt="susheelvishwa" /> </p>
+
 
  <img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' /> 
 <h2 align="center">📊 My GitHub Statastics </h2>

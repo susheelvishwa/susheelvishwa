@@ -204,32 +204,6 @@
           </a>
         </td>
       </tr>
-      <tr>
-        <td width="25%" align="center">
-          <a href="#">
-            <span>Not Confirmed</span><br /><br />
-            <img height="64px" src="https://via.placeholder.com/64" alt="Placeholder" />
-          </a>
-        </td>
-        <td width="25%" align="center">
-          <a href="#">
-            <span>Not Confirmed</span><br /><br />
-            <img height="64px" src="https://via.placeholder.com/64" alt="Placeholder" />
-          </a>
-        </td>
-        <td width="25%" align="center">
-          <a href="#">
-            <span>Not Confirmed</span><br /><br />
-            <img height="64px" src="https://via.placeholder.com/64" alt="Placeholder" />
-          </a>
-        </td>
-        <td width="25%" align="center">
-          <a href="#">
-            <span>Not Confirmed</span><br /><br />
-            <img height="64px" src="https://via.placeholder.com/64" alt="Placeholder" />
-          </a>
-        </td>
-      </tr>
     </tbody>
   </table>
 </div>

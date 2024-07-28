@@ -39,22 +39,21 @@
 <img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' />
 <br>
 <br>
-<h1 align="center">Let's Get Connected</h1>
-<br>
-<br>
-
-<div align="center">
-
-<a  href="https://www.linkedin.com/in/susheelvishwakarma65/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:susheelvishwakarma.india@gmail.com"><img  alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://www.instagram.com/susheelvishwakarma65"><img alt="Instagram" src="https://img.shields.io/badge/instagram%20-%23FF69B4.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
-<a href="https://auth.geeksforgeeks.org/user/susheelvishwakarma65"><img alt="GeeksforGeeks" src="https://img.shields.io/badge/GeeksforGeeks%20-%23207B5.svg?&style=for-the-badge&logo=GeeksforGeeks&logoColor=white" />
-</a>
-
-</div>
+<h1>Let's Get Connected</h1>
+    <div class="social-links">
+        <a href="https://www.linkedin.com/in/susheelvishwakarma65/" target="_blank">
+            <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+        </a>
+        <a href="mailto:susheelvishwakarma.india@gmail.com">
+            <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+        </a>
+        <a href="https://www.instagram.com/susheelvishwakarma65">
+            <img alt="Instagram" src="https://img.shields.io/badge/instagram%20-%23FF69B4.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
+        </a>
+        <a href="https://auth.geeksforgeeks.org/user/susheelvishwakarma65">
+            <img alt="GeeksforGeeks" src="https://img.shields.io/badge/GeeksforGeeks%20-%23207B5.svg?&style=for-the-badge&logo=GeeksforGeeks&logoColor=white" />
+        </a>
+    </div>
 
  <img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' /> 
  

@@ -62,7 +62,7 @@
 
 <h2 align="left">⚡Tech Stack</h2>
 <br>
-  <div>
+<div>
 <table align="center">
   <tbody>
     <tr valign="top">
@@ -80,18 +80,18 @@
       </td>
       <td width="25%" align="center">
         <a href="https://chakra-ui.com/">
-          <span>Chakra UI</span> <br><br />
+          <span>Chakra UI</span><br /><br />
           <img height="64px" src="https://itelofilho.gallerycdn.vsassets.io/extensions/itelofilho/chakra-ui-cheatsheet/0.1.2/1602346378840/Microsoft.VisualStudio.Services.Icons.Default" alt="Chakra UI Logo" />
         </a>
       </td>
-    </tr>
-    <tr>
       <td width="25%" align="center">
         <a style="font-weight: bold; text-decoration: none;" href="https://react.dev/">
           <span>React</span><br /><br />
           <img height="64px" src="https://cdn.svgporn.com/logos/react.svg" alt="React Logo" />
         </a>
       </td>
+    </tr>
+    <tr>
       <td width="25%" align="center">
         <a style="font-weight: bold; text-decoration: none;" href="https://nodejs.org/">
           <span>Node.js</span><br /><br />
@@ -104,8 +104,6 @@
           <img height="64px" src="https://cdn.svgporn.com/logos/express.svg" alt="Express Logo" />
         </a>
       </td>
-    </tr>
-    <tr>
       <td width="25%" align="center">
         <a style="font-weight: bold; text-decoration: none;" href="https://www.mysql.com/">
           <span>SQL</span><br /><br />
@@ -118,14 +116,14 @@
           <img height="64px" src="https://cdn.svgporn.com/logos/firebase.svg" alt="Firebase Logo" />
         </a>
       </td>
+    </tr>
+    <tr>
       <td width="25%" align="center">
         <a style="font-weight: bold; text-decoration: none;" href="https://www.mongodb.com/">
           <span>MongoDB</span><br /><br />
           <img height="64px" src="https://cdn.svgporn.com/logos/mongodb.svg" alt="MongoDB Logo" />
         </a>
       </td>
-    </tr>
-    <tr>
       <td width="25%" align="center">
         <a href="https://www.python.org/">
           <span>Python</span><br /><br />
@@ -173,14 +171,14 @@
             <img height="64px" src="https://cdn.svgporn.com/logos/github-icon.svg" alt="GitHub Logo" />
           </a>
         </td>
-      </tr>
-      <tr>
         <td width="25%" align="center">
           <a href="https://glitch.com/">
             <span>Glitch</span><br /><br />
             <img height="64px" src="https://glitch.com/favicon.ico" alt="Glitch Logo" />
           </a>
         </td>
+      </tr>
+      <tr>
         <td width="25%" align="center">
           <a href="https://www.netlify.com/">
             <span>Netlify</span><br /><br />
@@ -193,8 +191,6 @@
             <img height="64px" src="https://cdn.svgporn.com/logos/vercel.svg" alt="Vercel Logo" />
           </a>
         </td>
-      </tr>
-      <tr>
         <td width="25%" align="center">
           <a href="https://www.postman.com/">
             <span>Postman</span><br /><br />
@@ -207,16 +203,37 @@
             <img height="64px" src="https://a.slack-edge.com/80588/marketing/img/icons/icon_slack_hash_colored.png" alt="Slack Logo" />
           </a>
         </td>
+      </tr>
+      <tr>
         <td width="25%" align="center">
-        <a href="#">
-          <span>Not Confirmed</span><br /><br />
-          <img height="64px" src="https://via.placeholder.com/64" alt="Placeholder" />
-        </a>
-      </td>
+          <a href="#">
+            <span>Not Confirmed</span><br /><br />
+            <img height="64px" src="https://via.placeholder.com/64" alt="Placeholder" />
+          </a>
+        </td>
+        <td width="25%" align="center">
+          <a href="#">
+            <span>Not Confirmed</span><br /><br />
+            <img height="64px" src="https://via.placeholder.com/64" alt="Placeholder" />
+          </a>
+        </td>
+        <td width="25%" align="center">
+          <a href="#">
+            <span>Not Confirmed</span><br /><br />
+            <img height="64px" src="https://via.placeholder.com/64" alt="Placeholder" />
+          </a>
+        </td>
+        <td width="25%" align="center">
+          <a href="#">
+            <span>Not Confirmed</span><br /><br />
+            <img height="64px" src="https://via.placeholder.com/64" alt="Placeholder" />
+          </a>
+        </td>
       </tr>
     </tbody>
   </table>
 </div>
+
 
 <br/>
 </div>

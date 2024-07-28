@@ -1,14 +1,15 @@
 ![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
 
 <div>
-
-<h4 align="center">I am pursuing my B.Tech in Electronics and Communication at the Sagar Institute of Research and Technology, Bhopal.
+<h4 align="center">I completed my B.Tech in Electronics and Communication at the Sagar Institute of Research and Technology, Bhopal in June 2024.
   <br>My expertise has given me a good understanding of both front-end and back-end technologies
   <br>Allowing me to design unique, user-friendly software solutions. 
   <br>I am diligent and strive for perfection in whatever I do.
-  <br>I will complete my graduation in June 2024
+  <br>
   <h2 align="center">💫  About Me </h2>
+  <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
 </h4>
+
 
 <div style="display: flex; justify-content: center; align-items: center;">
   <a href="https://git.io/typing-svg" target="_blank">
@@ -148,6 +149,7 @@
 </div>
 
 <h2 align="left">🛠️ Tools</h2>
+<br>
 <div>
   <table align="center">
     <tbody>
@@ -216,6 +218,7 @@
 </div>
 <br/>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=susheelvishwa&label=Profile%20views&color=0e75b6&style=flat" alt="susheelvishwa" /> </p>
+
 
  <img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' /> 
 <h2 align="center">📊 My GitHub Statastics </h2>

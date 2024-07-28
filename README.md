@@ -1,6 +1,6 @@
 ![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
-<div>
 
+<div>
 
 <h4 align="center">I am pursuing my B.Tech in Electronics and Communication at the Sagar Institute of Research and Technology, Bhopal.
   <br>My expertise has given me a good understanding of both front-end and back-end technologies
@@ -9,7 +9,6 @@
   <br>I will complete my graduation in June 2024
   <h2 align="center">💫  About Me </h2>
 </h4>
-
 
 <div style="display: flex; justify-content: center; align-items: center;">
   <a href="https://git.io/typing-svg" target="_blank">
@@ -22,7 +21,6 @@
 <div>
 <br>
   <img align="right" alt="Coder Image Gif" width="400" src="https://user-images.githubusercontent.com/119415006/232788353-c644eb55-f41d-4e30-ad97-4a0b88bfbbff.png">
-  
 
 🌱 I’m currently learning **Backend (nodejs)**.
 <br><br>
@@ -36,15 +34,14 @@
 ⚡ How to reach me <a href="mailto:Susheelvishwakarma.india@gmail.com" style="color:rgb(250, 111, 50);">Susheelvishwakarma.india@gmail.com</a>
 <br>
 <br>
-💬 Ask me about **Python, HTML, CSS, JavaScript, React.js, SQL**
-
-
+💬 Ask me about **Python, HTML, CSS, JavaScript, React.js,node.js, Express, MongoDB, SQL**
 
 <img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' />
-  
-
-
+<br>
+<br>
 <h1 align="center">Let's Get Connected</h1>
+<br>
+<br>
 
 <div align="center">
 
@@ -56,18 +53,15 @@
 </a>
 <a href="https://auth.geeksforgeeks.org/user/susheelvishwakarma65"><img alt="GeeksforGeeks" src="https://img.shields.io/badge/GeeksforGeeks%20-%23207B5.svg?&style=for-the-badge&logo=GeeksforGeeks&logoColor=white" />
 </a>
+
 </div>
 
-  
  <img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' /> 
  
-<h2 align="center">🚀 Languages and Tools: </h2>
- 
-<!-- <h4><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;Tech Stack..</h4> -->
-<br>
 <div>
- <!-- <img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=ecf05e47pkbgoupmgjv98otfuzjzz3olilr56muin6aigv8q&rid=giphy.gif&ct=g"> -->
+
 <h2 align="left">⚡Tech Stack</h2>
+<br>
   <div>
 <table align="center">
   <tbody>
@@ -75,119 +69,160 @@
       <td width="25%" align="center">
         <a style="font-weight: bold; text-decoration: none;" href="https://www.w3.org/html/">
           <span>HTML5</span><br /><br />
-          <img
-            height="64px"
-             src="https://cdn.svgporn.com/logos/html-5.svg" alt="HTML5 Logo"
-          />
+          <img height="64px" src="https://cdn.svgporn.com/logos/html-5.svg" alt="HTML5 Logo" />
         </a>
       </td>
-        <td width="25%" align="center">
+      <td width="25%" align="center">
         <a href="http://www.w3.org/TR/CSS/">
           <span>CSS</span><br /><br />
-          <img height="64px" src="https://cdn.svgporn.com/logos/css-3.svg" />
-        </a>
-      </td>
-       <td width="25%" align="center">
-        <a href="http://expressjs.com/">
-          <span>Express</span><br /><br />
-          <img
-            height="64px"
-            src="https://cdn.svgporn.com/logos/express.svg"
-          />
+          <img height="64px" src="https://cdn.svgporn.com/logos/css-3.svg" alt="CSS Logo" />
         </a>
       </td>
       <td width="25%" align="center">
         <a href="https://chakra-ui.com/">
-          <span>Chakra UI</span><br /><br />
+          <span>Chakra UI</span> <br><br />
           <img height="64px" src="https://itelofilho.gallerycdn.vsassets.io/extensions/itelofilho/chakra-ui-cheatsheet/0.1.2/1602346378840/Microsoft.VisualStudio.Services.Icons.Default" alt="Chakra UI Logo" />
         </a>
       </td>
     </tr>
-    <tr valign="top">
-      <td width="25%" align="center">
-        <a style="font-weight: bold; text-decoration: none;" href="https://git-scm.com/">
-          <span>Git</span><br /><br />
-          <img
-            height="64px"
-            src="https://cdn.svgporn.com/logos/git-icon.svg"
-          />
-        </a>
-    </td>
-      <td width="25%" align="center">
-        <a style="font-weight: bold; text-decoration: none;" href="https://www.vercel.com/">
-          <span>Vercel</span><br /><br />
-          <img height="64px" src="https://cdn.svgporn.com/logos/vercel.svg" />
-        </a>
-      </td>
-      <td width="25%" align="center">
-        <a style="color: black; font-weight: bold; text-decoration: none;" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-          <span>JavaScript</span><br /><br />
-          <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg" />
-        </a>
-      </td>
+    <tr>
       <td width="25%" align="center">
         <a style="font-weight: bold; text-decoration: none;" href="https://react.dev/">
           <span>React</span><br /><br />
-          <img height="64px" src="https://cdn.svgporn.com/logos/react.svg" />
-        </a>
-      </td>
-    </tr>
-    <tr valign="top">
-        <td width="25%" align="center">
-        <a style="font-weight: bold; text-decoration: none;" href="https://www.getpostman.com/">
-          <span>Postman</span><br /><br />
-          <img
-            height="64px"
-            src="https://cdn.svgporn.com/logos/postman-icon.svg"
-          />
-        </a>
-    </td>
-    <td width="25%" align="center">
-      <a style="font-weight: bold; text-decoration: none;" href="https://www.mongodb.org/">
-        <span>MongoDB</span><br /><br />
-        <img
-          height="64px"
-          src="https://cdn.svgporn.com/logos/mongodb.svg"
-        />
-      </a>
-    </td>
-      <td width="25%" align="center">
-        <a style="font-weight: bold; text-decoration: none;" href="https://www.netlify.com/">
-          <span>Netlify</span><br /><br />
-          <img height="64px" src="https://cdn.svgporn.com/logos/netlify.svg" />
+          <img height="64px" src="https://cdn.svgporn.com/logos/react.svg" alt="React Logo" />
         </a>
       </td>
       <td width="25%" align="center">
         <a style="font-weight: bold; text-decoration: none;" href="https://nodejs.org/">
           <span>Node.js</span><br /><br />
-          <img height="64px" src="https://cdn.svgporn.com/logos/nodejs.svg" />
+          <img height="64px" src="https://cdn.svgporn.com/logos/nodejs.svg" alt="Node.js Logo" />
+        </a>
+      </td>
+      <td width="25%" align="center">
+        <a href="http://expressjs.com/">
+          <span>Express</span><br /><br />
+          <img height="64px" src="https://cdn.svgporn.com/logos/express.svg" alt="Express Logo" />
         </a>
       </td>
     </tr>
-
+    <tr>
+      <td width="25%" align="center">
+        <a style="font-weight: bold; text-decoration: none;" href="https://www.mysql.com/">
+          <span>SQL</span><br /><br />
+          <img height="64px" src="https://cdn.svgporn.com/logos/mysql.svg" alt="SQL Logo" />
+        </a>
+      </td>
+      <td width="25%" align="center">
+        <a href="https://firebase.google.com/">
+          <span>Firebase</span><br /><br />
+          <img height="64px" src="https://cdn.svgporn.com/logos/firebase.svg" alt="Firebase Logo" />
+        </a>
+      </td>
+      <td width="25%" align="center">
+        <a style="font-weight: bold; text-decoration: none;" href="https://www.mongodb.com/">
+          <span>MongoDB</span><br /><br />
+          <img height="64px" src="https://cdn.svgporn.com/logos/mongodb.svg" alt="MongoDB Logo" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td width="25%" align="center">
+        <a href="https://www.python.org/">
+          <span>Python</span><br /><br />
+          <img height="64px" src="https://cdn.svgporn.com/logos/python.svg" alt="Python Logo" />
+        </a>
+      </td>
+      <td width="25%" align="center">
+        <a style="font-weight: bold; text-decoration: none;" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+          <span>JavaScript</span><br /><br />
+          <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg" alt="JavaScript Logo" />
+        </a>
+      </td>
+      <td width="25%" align="center">
+        <a href="#">
+          <span>Not Confirmed</span><br /><br />
+          <img height="64px" src="https://via.placeholder.com/64" alt="Placeholder" />
+        </a>
+      </td>
+    </tr>
   </tbody>
 </table>
 <br/>
 </div>
+
+<h2 align="left">🛠️ Tools</h2>
+<div>
+  <table align="center">
+    <tbody>
+      <tr>
+        <td width="25%" align="center">
+          <a href="https://code.visualstudio.com/">
+            <span>VS Code</span><br /><br />
+            <img height="64px" src="https://code.visualstudio.com/assets/favicon.ico" alt="VS Code Logo" />
+          </a>
+        </td>
+        <td width="25%" align="center">
+          <a href="https://git-scm.com/">
+            <span>Git</span><br /><br />
+            <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg" alt="Git Logo" />
+          </a>
+        </td>
+        <td width="25%" align="center">
+          <a href="https://github.com/">
+            <span>GitHub</span><br /><br />
+            <img height="64px" src="https://cdn.svgporn.com/logos/github-icon.svg" alt="GitHub Logo" />
+          </a>
+        </td>
+      </tr>
+      <tr>
+        <td width="25%" align="center">
+          <a href="https://glitch.com/">
+            <span>Glitch</span><br /><br />
+            <img height="64px" src="https://glitch.com/favicon.ico" alt="Glitch Logo" />
+          </a>
+        </td>
+        <td width="25%" align="center">
+          <a href="https://www.netlify.com/">
+            <span>Netlify</span><br /><br />
+            <img height="64px" src="https://cdn.svgporn.com/logos/netlify.svg" alt="Netlify Logo" />
+          </a>
+        </td>
+        <td width="25%" align="center">
+          <a href="https://www.vercel.com/">
+            <span>Vercel</span><br /><br />
+            <img height="64px" src="https://cdn.svgporn.com/logos/vercel.svg" alt="Vercel Logo" />
+          </a>
+        </td>
+      </tr>
+      <tr>
+        <td width="25%" align="center">
+          <a href="https://www.postman.com/">
+            <span>Postman</span><br /><br />
+            <img height="64px" src="https://cdn.svgporn.com/logos/postman-icon.svg" alt="Postman Logo" />
+          </a>
+        </td>
+        <td width="25%" align="center">
+          <a href="https://slack.com/">
+            <span>Slack</span><br /><br />
+            <img height="64px" src="https://a.slack-edge.com/80588/marketing/img/icons/icon_slack_hash_colored.png" alt="Slack Logo" />
+          </a>
+        </td>
+        <td width="25%" align="center">
+        <a href="#">
+          <span>Not Confirmed</span><br /><br />
+          <img height="64px" src="https://via.placeholder.com/64" alt="Placeholder" />
+        </a>
+      </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
 <br/>
 </div>
-<hr>
- 
-<h4><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;My working tools..</h4>
-<p>
-  <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="vscode" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github"/>&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Git%20-%23F7DF1E.svg?&style=for-the-badge&color=blue&logo=Git&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white" alt="replit" />&nbsp;&nbsp;
- <br/>
- <img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="codepen" />&nbsp;&nbsp;
- <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="postman"/>&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Codesandbox-000000?style=for-the-badge&logo=CodeSandbox&logoColor=white" alt="codesandbox" />&nbsp;&nbsp;
-  <br/>
-  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="netlify" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" alt="canva" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/vercel-0078D4?style=for-the-badge&logo=visual%20studio%" alt="varcel" />&nbsp;&nbsp;
-  
+<br/>
+</div>
+
 </p>
 <br/>
 <img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' />
@@ -215,5 +250,3 @@
 
 </div>
   <img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' />
-
-

@@ -1,14 +1,14 @@
 ![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
 
 <div>
-
-<h4 align="center">I am pursuing my B.Tech in Electronics and Communication at the Sagar Institute of Research and Technology, Bhopal.
+<h4 align="center">I completed my B.Tech in Electronics and Communication at the Sagar Institute of Research and Technology, Bhopal in June 2024.
   <br>My expertise has given me a good understanding of both front-end and back-end technologies
   <br>Allowing me to design unique, user-friendly software solutions. 
   <br>I am diligent and strive for perfection in whatever I do.
-  <br>I will complete my graduation in June 2024
+  <br>
   <h2 align="center">💫  About Me </h2>
 </h4>
+
 
 <div style="display: flex; justify-content: center; align-items: center;">
   <a href="https://git.io/typing-svg" target="_blank">

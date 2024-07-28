@@ -136,9 +136,9 @@
         </a>
       </td>
       <td width="25%" align="center">
-        <a href="#">
-          <span>Not Confirmed</span><br /><br />
-          <img height="64px" src="https://via.placeholder.com/64" alt="Placeholder" />
+        <a style="font-weight: bold; text-decoration: none;" href="https://redux.js.org/">
+          <span>Redux</span><br /><br />
+          <img height="64px" src="https://cdn.svgporn.com/logos/redux.svg" alt="Redux Logo" />
         </a>
       </td>
     </tr>
@@ -171,9 +171,9 @@
           </a>
         </td>
         <td width="25%" align="center">
-          <a href="https://glitch.com/">
-            <span>Glitch</span><br /><br />
-            <img height="64px" src="https://glitch.com/favicon.ico" alt="Glitch Logo" />
+          <a style="font-weight: bold; text-decoration: none;" href="https://www.npmjs.com/">
+            <span>NPM</span><br /><br />
+            <img height="64px" src="https://cdn.svgporn.com/logos/npm.svg" alt="NPM Logo" />
           </a>
         </td>
       </tr>
@@ -197,22 +197,19 @@
           </a>
         </td>
         <td width="25%" align="center">
-          <a href="https://slack.com/">
-            <span>Slack</span><br /><br />
-            <img height="64px" src="https://a.slack-edge.com/80588/marketing/img/icons/icon_slack_hash_colored.png" alt="Slack Logo" />
+          <a style="font-weight: bold; text-decoration: none;" href="https://vitejs.dev/">
+            <span>Vite</span><br /><br />
+            <img height="64px" src="https://cdn.svgporn.com/logos/vitejs.svg" alt="Vite Logo" />
           </a>
         </td>
       </tr>
     </tbody>
   </table>
 </div>
-
-
 <br/>
 </div>
 <br/>
 </div>
-
 </p>
 <br/>
 <img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' />

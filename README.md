@@ -19,7 +19,7 @@
 
 <img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' />
 
-<div>
+<>
 <br>
   <img align="right" alt="Coder Image Gif" width="400" src="https://user-images.githubusercontent.com/119415006/232788353-c644eb55-f41d-4e30-ad97-4a0b88bfbbff.png">
 
@@ -35,7 +35,7 @@
 ⚡ How to reach me <a href="mailto:Susheelvishwakarma.india@gmail.com" style="color:rgb(250, 111, 50);">Susheelvishwakarma.india@gmail.com</a>
 <br>
 <br>
-💬 Ask me about **Python, HTML, CSS, JavaScript, React.js,node.js, Express, MongoDB, SQL**
+💬 Ask me about **Python, HTML, CSS, JavaScript, React.js,node.js, Express, MongoDB, SQL, Firebase**
 
 <img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' />
 <br>
@@ -207,8 +207,6 @@
       </tr>
     </tbody>
   </table>
-</div>
-<br/>
 </div>
 <br/>
 </div>

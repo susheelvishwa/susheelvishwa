@@ -13,7 +13,7 @@
 
 <div style="display: flex; justify-content: center; align-items: center;">
   <a href="https://git.io/typing-svg" target="_blank">
-    <b><img src="https://readme-typing-svg.demolab.com/?lines=+Student+and+Aspiring+Full+Stack+Developer;" alt="Typing SVG"><b>
+    <b><img src="https://readme-typing-svg.demolab.com/?lines=Aspiring+Full+Stack+Developer;" alt="Typing SVG"><b>
   </a>
 </div>
 

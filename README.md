@@ -25,7 +25,7 @@
 
 🌱 I’m currently learning **Backend (nodejs)**.
 <br><br>
-🤔 Check Out my <a href="https://docs.google.com/document/d/1cB5rDEBopUy9eYz_aalDiit3fIoIxgWe-c6m_N1sac4/edit?usp=sharing" style="color: rgb(211, 28, 255);">Resume</a>
+🤔 Check Out my <a href="https://drive.google.com/file/d/1ZlO_Mx8NzRpjkvnNIvb3ui6E3f9t0akl/view?usp=sharing" style="color: rgb(211, 28, 255);">Resume</a>
 <br><br>
 👨‍💻 Know more about me <a target="_blank" href="https://susheelvishwakarmaportfolio.netlify.app/" style="color: rgb(250, 111, 50);">Portfolio</a>
 <br><br>

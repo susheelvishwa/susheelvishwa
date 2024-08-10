@@ -13,7 +13,7 @@
 
 <div style="display: flex; justify-content: center; align-items: center;">
   <a href="https://git.io/typing-svg" target="_blank">
-    <b><img src="https://readme-typing-svg.demolab.com/?lines=+Student+and+Aspiring+Full+Stack+Developer;" alt="Typing SVG"><b>
+     <img src="https://readme-typing-svg.herokuapp.com?color=%0700&size=32&center=true&vCenter=true&width=600&height=50&lines=Aspiring+Full-stack+Developer;Problem+Solver;Algorithm+Developer;Open-Source+Enthusiast" alt="Headline" />
   </a>
 </div>
 

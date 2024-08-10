@@ -13,13 +13,10 @@
 
 <div style="display: flex; justify-content: center; align-items: center;">
   <a href="https://git.io/typing-svg" target="_blank">
-    <b><img src="https://readme-typing-svg.demolab.com/?lines=Aspiring+Full+Stack+Developer;" alt="Typing SVG"><b>
+  <img src="https://readme-typing-svg.herokuapp.com?color=%0700&size=32&center=true&vCenter=true&width=600&height=50&lines=Aspiring+Full-stack+Developer;Problem+Solver;Algorithm+Developer;Open-Source+Enthusiast" alt="Headline" />
   </a>
 </div>
-
 <img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' />
-
-<>
 <br>
   <img align="right" alt="Coder Image Gif" width="400" src="https://user-images.githubusercontent.com/119415006/232788353-c644eb55-f41d-4e30-ad97-4a0b88bfbbff.png">
 

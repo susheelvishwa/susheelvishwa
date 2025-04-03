@@ -19,7 +19,7 @@
 <img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' />
 <br>
   <img align="right" alt="Coder Image Gif" width="400" src="https://user-images.githubusercontent.com/119415006/232788353-c644eb55-f41d-4e30-ad97-4a0b88bfbbff.png">
-
+<br><br>
 🤔 Check Out my <a href="https://drive.google.com/file/d/1ZlO_Mx8NzRpjkvnNIvb3ui6E3f9t0akl/view?usp=sharing" style="color: rgb(211, 28, 255);">Resume</a>
 <br><br>
 👨‍💻 Know more about me <a target="_blank" href="https://susheelvishwakarmaportfolio.netlify.app/" style="color: rgb(250, 111, 50);">Portfolio</a>
